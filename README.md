@@ -13,7 +13,7 @@ The **Prometheon Reactor** is an innovative solution aimed at addressing global 
 - **Promoting sustainability** by reducing waste and producing renewable energy.
 
 This repository includes:
-- A **design model** to visualize the reactor structure.
+- A **[design model](https://rabbilearn.me/Prometheon/)** to visualize the reactor structure.
 - Early-stage **software concepts**, including AI-based sorting and optimization tools.
 - A **PDF paper** that outlines the scientific, environmental, and economic rationale for the reactor.
 
